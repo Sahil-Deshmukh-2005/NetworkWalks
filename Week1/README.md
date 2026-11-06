@@ -10,7 +10,7 @@ The setup involves configuring Kali Linux as the attacking machine, creating an 
 
 - **Virtualization:** Oracle VirtualBox 7.2.16
 - **Operating System:** Kali Linux 2026.1 (64-bit)
-- **Host Operating System:** Linux Mint 22.3
+- **Host Operating System:** Linux Ubuntu 26
 - **Network Type:** NAT Network
 - **Network Subnet:** 10.0.0.0/24
 - **Guest IP Address:** 10.0.0.2/24
